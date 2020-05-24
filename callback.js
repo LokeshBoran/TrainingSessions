@@ -6,6 +6,6 @@ function test(cb) {
 }
 
 test(function () {
-    console.log("CB");
+    console.log("CB Called");
 });
 console.log('TEST');
