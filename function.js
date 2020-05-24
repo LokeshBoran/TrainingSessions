@@ -20,8 +20,8 @@ function process(a, b) {
 
 var obj = process(12,11)
 
-console.log("SUM: ", obj.sum());
-console.log("DIV: ", obj.div());
+console.log(":SUM: ", obj.sum());
+console.log(":DIV: ", obj.div());
 console.log("SUB: ", obj.sub());
 
 
